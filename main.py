@@ -66,7 +66,7 @@ class MainApp(QtWidgets.QMainWindow,MAIN_WINDOW):
     def browse(self,idx):
         logger.info("Browsing the files")
 
-        self.file,_ = QtGui.QFileDialog.getOpenFileName(self, 'choose the image', os.getenv('HOME') ,"Images (*.png *.xpm *.jpg)" )
+        self.file,_ = QtWidgets.QFileDialog.getOpenFileName(self, 'choose the image', os.getenv('HOME') ,"Images (*.png *.xpm *.jpg)" )
         if self.file == "":
             pass
         if idx == 0:
