@@ -1,0 +1,322 @@
+2022-03-11 22:12:14,820 uiname is MainWindow
+2022-03-11 22:12:14,820 toplevel widget is QMainWindow
+2022-03-11 22:12:14,820 setting property geometry
+2022-03-11 22:12:14,820 setting property minimumSize
+2022-03-11 22:12:14,820 setting property windowTitle
+2022-03-11 22:12:14,821 push QMainWindow MainWindow
+2022-03-11 22:12:14,821 push QWidget centralwidget
+2022-03-11 22:12:14,821 push QGridLayout gridLayout_40
+2022-03-11 22:12:14,821 push QGridLayout gridLayout_39
+2022-03-11 22:12:14,821 push QGridLayout gridLayout_9
+2022-03-11 22:12:14,821 setting property styleSheet
+2022-03-11 22:12:14,821 setting property title
+2022-03-11 22:12:14,821 push QGroupBox groupBox_7
+2022-03-11 22:12:14,821 push QGridLayout gridLayout_20
+2022-03-11 22:12:14,822 push QGridLayout gridLayout_22
+2022-03-11 22:12:14,822 push QGridLayout gridLayout_23
+2022-03-11 22:12:14,822 setting property font
+2022-03-11 22:12:14,822 setting property text
+2022-03-11 22:12:14,822 push QLabel label_14
+2022-03-11 22:12:14,822 pop widget QLabel label_14
+2022-03-11 22:12:14,822 new topwidget self.groupBox_7
+2022-03-11 22:12:14,822 pop layout QGridLayout gridLayout_23
+2022-03-11 22:12:14,823 push QGridLayout gridLayout_32
+2022-03-11 22:12:14,823 push QGridLayout gridLayout_33
+2022-03-11 22:12:14,823 push QGridLayout gridLayout_34
+2022-03-11 22:12:14,823 setting property enabled
+2022-03-11 22:12:14,823 setting property minimumSize
+2022-03-11 22:12:14,823 setting property font
+2022-03-11 22:12:14,823 setting property acceptDrops
+2022-03-11 22:12:14,823 setting property iconSize
+2022-03-11 22:12:14,823 push QComboBox comboBox_4
+2022-03-11 22:12:14,824 pop widget QComboBox comboBox_4
+2022-03-11 22:12:14,824 new topwidget self.groupBox_7
+2022-03-11 22:12:14,824 pop layout QGridLayout gridLayout_34
+2022-03-11 22:12:14,824 push QGridLayout gridLayout_35
+2022-03-11 22:12:14,824 push QGridLayout gridLayout_36
+2022-03-11 22:12:14,824 push QGridLayout gridLayout_37
+2022-03-11 22:12:14,824 pop layout QGridLayout gridLayout_37
+2022-03-11 22:12:14,824 setting property orientation
+2022-03-11 22:12:14,825 push QSlider slider
+2022-03-11 22:12:14,825 pop widget QSlider slider
+2022-03-11 22:12:14,825 new topwidget self.groupBox_7
+2022-03-11 22:12:14,825 pop layout QGridLayout gridLayout_36
+2022-03-11 22:12:14,825 pop layout QGridLayout gridLayout_35
+2022-03-11 22:12:14,825 pop layout QGridLayout gridLayout_33
+2022-03-11 22:12:14,825 setting property enabled
+2022-03-11 22:12:14,825 setting property minimumSize
+2022-03-11 22:12:14,825 setting property font
+2022-03-11 22:12:14,825 setting property acceptDrops
+2022-03-11 22:12:14,825 setting property iconSize
+2022-03-11 22:12:14,825 push QComboBox comboBox_6
+2022-03-11 22:12:14,826 pop widget QComboBox comboBox_6
+2022-03-11 22:12:14,826 new topwidget self.groupBox_7
+2022-03-11 22:12:14,826 pop layout QGridLayout gridLayout_32
+2022-03-11 22:12:14,826 pop layout QGridLayout gridLayout_22
+2022-03-11 22:12:14,826 setting property orientation
+2022-03-11 22:12:14,826 push QFrame line_3
+2022-03-11 22:12:14,826 pop widget QFrame line_3
+2022-03-11 22:12:14,826 new topwidget self.groupBox_7
+2022-03-11 22:12:14,826 push QGridLayout gridLayout_24
+2022-03-11 22:12:14,826 push QGridLayout gridLayout_25
+2022-03-11 22:12:14,827 setting property font
+2022-03-11 22:12:14,827 setting property text
+2022-03-11 22:12:14,827 push QLabel label_15
+2022-03-11 22:12:14,827 pop widget QLabel label_15
+2022-03-11 22:12:14,827 new topwidget self.groupBox_7
+2022-03-11 22:12:14,827 pop layout QGridLayout gridLayout_25
+2022-03-11 22:12:14,827 push QGridLayout gridLayout_26
+2022-03-11 22:12:14,827 push QGridLayout gridLayout_27
+2022-03-11 22:12:14,828 push QGridLayout gridLayout_28
+2022-03-11 22:12:14,828 setting property enabled
+2022-03-11 22:12:14,828 setting property minimumSize
+2022-03-11 22:12:14,828 setting property font
+2022-03-11 22:12:14,828 setting property acceptDrops
+2022-03-11 22:12:14,828 setting property iconSize
+2022-03-11 22:12:14,828 push QComboBox comboBox_5
+2022-03-11 22:12:14,828 pop widget QComboBox comboBox_5
+2022-03-11 22:12:14,828 new topwidget self.groupBox_7
+2022-03-11 22:12:14,828 pop layout QGridLayout gridLayout_28
+2022-03-11 22:12:14,829 push QGridLayout gridLayout_29
+2022-03-11 22:12:14,829 push QGridLayout gridLayout_30
+2022-03-11 22:12:14,829 setting property orientation
+2022-03-11 22:12:14,829 push QSlider slider_2
+2022-03-11 22:12:14,829 pop widget QSlider slider_2
+2022-03-11 22:12:14,829 new topwidget self.groupBox_7
+2022-03-11 22:12:14,829 push QGridLayout gridLayout_31
+2022-03-11 22:12:14,829 pop layout QGridLayout gridLayout_31
+2022-03-11 22:12:14,829 pop layout QGridLayout gridLayout_30
+2022-03-11 22:12:14,829 pop layout QGridLayout gridLayout_29
+2022-03-11 22:12:14,829 pop layout QGridLayout gridLayout_27
+2022-03-11 22:12:14,830 setting property enabled
+2022-03-11 22:12:14,830 setting property minimumSize
+2022-03-11 22:12:14,830 setting property font
+2022-03-11 22:12:14,830 setting property acceptDrops
+2022-03-11 22:12:14,830 setting property iconSize
+2022-03-11 22:12:14,830 push QComboBox comboBox_7
+2022-03-11 22:12:14,830 pop widget QComboBox comboBox_7
+2022-03-11 22:12:14,830 new topwidget self.groupBox_7
+2022-03-11 22:12:14,830 pop layout QGridLayout gridLayout_26
+2022-03-11 22:12:14,830 pop layout QGridLayout gridLayout_24
+2022-03-11 22:12:14,831 push QGridLayout gridLayout_21
+2022-03-11 22:12:14,831 setting property enabled
+2022-03-11 22:12:14,831 setting property minimumSize
+2022-03-11 22:12:14,831 setting property font
+2022-03-11 22:12:14,831 setting property acceptDrops
+2022-03-11 22:12:14,831 setting property iconSize
+2022-03-11 22:12:14,831 push QComboBox comboBox_3
+2022-03-11 22:12:14,831 pop widget QComboBox comboBox_3
+2022-03-11 22:12:14,831 new topwidget self.groupBox_7
+2022-03-11 22:12:14,831 setting property font
+2022-03-11 22:12:14,831 setting property text
+2022-03-11 22:12:14,832 push QLabel label_13
+2022-03-11 22:12:14,832 pop widget QLabel label_13
+2022-03-11 22:12:14,832 new topwidget self.groupBox_7
+2022-03-11 22:12:14,832 pop layout QGridLayout gridLayout_21
+2022-03-11 22:12:14,832 pop layout QGridLayout gridLayout_20
+2022-03-11 22:12:14,832 pop widget QGroupBox groupBox_7
+2022-03-11 22:12:14,832 new topwidget self.centralwidget
+2022-03-11 22:12:14,832 setting property title
+2022-03-11 22:12:14,832 push QGroupBox groupBox_10
+2022-03-11 22:12:14,832 push QGridLayout gridLayout_11
+2022-03-11 22:12:14,832 push QGridLayout gridLayout_12
+2022-03-11 22:12:14,832 push QGridLayout gridLayout_13
+2022-03-11 22:12:14,832 setting property font
+2022-03-11 22:12:14,833 setting property frameShape
+2022-03-11 22:12:14,833 setting property text
+2022-03-11 22:12:14,833 setting property alignment
+2022-03-11 22:12:14,833 push QLabel label_6
+2022-03-11 22:12:14,833 pop widget QLabel label_6
+2022-03-11 22:12:14,833 new topwidget self.groupBox_10
+2022-03-11 22:12:14,833 setting property title
+2022-03-11 22:12:14,833 push QGroupBox groupBox_8
+2022-03-11 22:12:14,833 push QGridLayout gridLayout_7
+2022-03-11 22:12:14,833 push QGridLayout gridLayout_17
+2022-03-11 22:12:14,833 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,834 setting property sizePolicy
+2022-03-11 22:12:14,834 setting property minimumSize
+2022-03-11 22:12:14,834 push ImageView output_1
+2022-03-11 22:12:14,834 pop widget ImageView output_1
+2022-03-11 22:12:14,834 new topwidget self.groupBox_8
+2022-03-11 22:12:14,834 pop layout QGridLayout gridLayout_17
+2022-03-11 22:12:14,834 pop layout QGridLayout gridLayout_7
+2022-03-11 22:12:14,834 pop widget QGroupBox groupBox_8
+2022-03-11 22:12:14,834 new topwidget self.groupBox_10
+2022-03-11 22:12:14,834 pop layout QGridLayout gridLayout_13
+2022-03-11 22:12:14,834 push QGridLayout gridLayout_15
+2022-03-11 22:12:14,834 setting property font
+2022-03-11 22:12:14,834 setting property frameShape
+2022-03-11 22:12:14,835 setting property text
+2022-03-11 22:12:14,835 setting property alignment
+2022-03-11 22:12:14,835 push QLabel label_7
+2022-03-11 22:12:14,835 pop widget QLabel label_7
+2022-03-11 22:12:14,835 new topwidget self.groupBox_10
+2022-03-11 22:12:14,835 setting property title
+2022-03-11 22:12:14,835 push QGroupBox groupBox_9
+2022-03-11 22:12:14,835 push QGridLayout gridLayout_8
+2022-03-11 22:12:14,835 push QGridLayout gridLayout_18
+2022-03-11 22:12:14,835 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,835 setting property sizePolicy
+2022-03-11 22:12:14,835 setting property minimumSize
+2022-03-11 22:12:14,835 push ImageView output_2
+2022-03-11 22:12:14,835 pop widget ImageView output_2
+2022-03-11 22:12:14,835 new topwidget self.groupBox_9
+2022-03-11 22:12:14,835 pop layout QGridLayout gridLayout_18
+2022-03-11 22:12:14,835 pop layout QGridLayout gridLayout_8
+2022-03-11 22:12:14,835 pop widget QGroupBox groupBox_9
+2022-03-11 22:12:14,835 new topwidget self.groupBox_10
+2022-03-11 22:12:14,835 pop layout QGridLayout gridLayout_15
+2022-03-11 22:12:14,835 pop layout QGridLayout gridLayout_12
+2022-03-11 22:12:14,835 pop layout QGridLayout gridLayout_11
+2022-03-11 22:12:14,836 pop widget QGroupBox groupBox_10
+2022-03-11 22:12:14,836 new topwidget self.centralwidget
+2022-03-11 22:12:14,836 pop layout QGridLayout gridLayout_9
+2022-03-11 22:12:14,836 push QGridLayout gridLayout_38
+2022-03-11 22:12:14,836 setting property font
+2022-03-11 22:12:14,836 setting property styleSheet
+2022-03-11 22:12:14,836 setting property title
+2022-03-11 22:12:14,836 setting property flat
+2022-03-11 22:12:14,836 push QGroupBox groupBox_4
+2022-03-11 22:12:14,836 push QGridLayout gridLayout_4
+2022-03-11 22:12:14,836 setting property sizeConstraint
+2022-03-11 22:12:14,836 push QGridLayout gridLayout_19
+2022-03-11 22:12:14,837 setting property font
+2022-03-11 22:12:14,837 setting property styleSheet
+2022-03-11 22:12:14,837 setting property frameShape
+2022-03-11 22:12:14,837 setting property frameShadow
+2022-03-11 22:12:14,837 setting property text
+2022-03-11 22:12:14,837 push QLabel label_2
+2022-03-11 22:12:14,837 pop widget QLabel label_2
+2022-03-11 22:12:14,837 new topwidget self.groupBox_4
+2022-03-11 22:12:14,837 setting property enabled
+2022-03-11 22:12:14,837 setting property minimumSize
+2022-03-11 22:12:14,837 setting property font
+2022-03-11 22:12:14,837 setting property acceptDrops
+2022-03-11 22:12:14,837 setting property iconSize
+2022-03-11 22:12:14,838 push QComboBox comboBox_2
+2022-03-11 22:12:14,838 pop widget QComboBox comboBox_2
+2022-03-11 22:12:14,838 new topwidget self.groupBox_4
+2022-03-11 22:12:14,838 pop layout QGridLayout gridLayout_19
+2022-03-11 22:12:14,838 setting property orientation
+2022-03-11 22:12:14,838 push QFrame line_2
+2022-03-11 22:12:14,838 pop widget QFrame line_2
+2022-03-11 22:12:14,838 new topwidget self.groupBox_4
+2022-03-11 22:12:14,838 push QGridLayout gridLayout_14
+2022-03-11 22:12:14,838 setting property title
+2022-03-11 22:12:14,838 push QGroupBox groupBox_5
+2022-03-11 22:12:14,839 push QGridLayout gridLayout_5
+2022-03-11 22:12:14,839 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,839 setting property sizePolicy
+2022-03-11 22:12:14,839 setting property minimumSize
+2022-03-11 22:12:14,839 push ImageView imageView_2
+2022-03-11 22:12:14,839 pop widget ImageView imageView_2
+2022-03-11 22:12:14,839 new topwidget self.groupBox_5
+2022-03-11 22:12:14,839 pop layout QGridLayout gridLayout_5
+2022-03-11 22:12:14,839 pop widget QGroupBox groupBox_5
+2022-03-11 22:12:14,839 new topwidget self.groupBox_4
+2022-03-11 22:12:14,839 setting property title
+2022-03-11 22:12:14,839 push QGroupBox groupBox_6
+2022-03-11 22:12:14,840 push QGridLayout gridLayout_6
+2022-03-11 22:12:14,840 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,840 setting property sizePolicy
+2022-03-11 22:12:14,840 setting property minimumSize
+2022-03-11 22:12:14,840 push ImageView imageView_2_edit
+2022-03-11 22:12:14,840 pop widget ImageView imageView_2_edit
+2022-03-11 22:12:14,840 new topwidget self.groupBox_6
+2022-03-11 22:12:14,840 pop layout QGridLayout gridLayout_6
+2022-03-11 22:12:14,840 pop widget QGroupBox groupBox_6
+2022-03-11 22:12:14,840 new topwidget self.groupBox_4
+2022-03-11 22:12:14,840 pop layout QGridLayout gridLayout_14
+2022-03-11 22:12:14,840 pop layout QGridLayout gridLayout_4
+2022-03-11 22:12:14,840 pop widget QGroupBox groupBox_4
+2022-03-11 22:12:14,840 new topwidget self.centralwidget
+2022-03-11 22:12:14,841 setting property font
+2022-03-11 22:12:14,841 setting property title
+2022-03-11 22:12:14,841 setting property flat
+2022-03-11 22:12:14,841 push QGroupBox groupBox
+2022-03-11 22:12:14,841 push QGridLayout gridLayout_3
+2022-03-11 22:12:14,841 push QGridLayout gridLayout_10
+2022-03-11 22:12:14,841 setting property title
+2022-03-11 22:12:14,841 push QGroupBox groupBox_2
+2022-03-11 22:12:14,841 push QGridLayout gridLayout
+2022-03-11 22:12:14,841 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,841 setting property sizePolicy
+2022-03-11 22:12:14,842 setting property minimumSize
+2022-03-11 22:12:14,842 push ImageView imageView_1_edit
+2022-03-11 22:12:14,842 pop widget ImageView imageView_1_edit
+2022-03-11 22:12:14,842 new topwidget self.groupBox_2
+2022-03-11 22:12:14,842 pop layout QGridLayout gridLayout
+2022-03-11 22:12:14,842 pop widget QGroupBox groupBox_2
+2022-03-11 22:12:14,842 new topwidget self.groupBox
+2022-03-11 22:12:14,842 setting property title
+2022-03-11 22:12:14,842 push QGroupBox groupBox_3
+2022-03-11 22:12:14,842 push QGridLayout gridLayout_2
+2022-03-11 22:12:14,842 resolved baseclass of ImageView: QtWidgets.QGraphicsView
+2022-03-11 22:12:14,842 setting property sizePolicy
+2022-03-11 22:12:14,843 setting property minimumSize
+2022-03-11 22:12:14,843 push ImageView imageView
+2022-03-11 22:12:14,843 pop widget ImageView imageView
+2022-03-11 22:12:14,843 new topwidget self.groupBox_3
+2022-03-11 22:12:14,843 pop layout QGridLayout gridLayout_2
+2022-03-11 22:12:14,843 pop widget QGroupBox groupBox_3
+2022-03-11 22:12:14,843 new topwidget self.groupBox
+2022-03-11 22:12:14,843 pop layout QGridLayout gridLayout_10
+2022-03-11 22:12:14,843 setting property sizeConstraint
+2022-03-11 22:12:14,843 push QGridLayout gridLayout_16
+2022-03-11 22:12:14,843 setting property font
+2022-03-11 22:12:14,843 setting property styleSheet
+2022-03-11 22:12:14,843 setting property frameShape
+2022-03-11 22:12:14,844 setting property frameShadow
+2022-03-11 22:12:14,844 setting property text
+2022-03-11 22:12:14,844 push QLabel label
+2022-03-11 22:12:14,844 pop widget QLabel label
+2022-03-11 22:12:14,844 new topwidget self.groupBox
+2022-03-11 22:12:14,844 setting property enabled
+2022-03-11 22:12:14,844 setting property minimumSize
+2022-03-11 22:12:14,844 setting property font
+2022-03-11 22:12:14,844 setting property acceptDrops
+2022-03-11 22:12:14,844 setting property iconSize
+2022-03-11 22:12:14,844 push QComboBox comboBox
+2022-03-11 22:12:14,845 pop widget QComboBox comboBox
+2022-03-11 22:12:14,845 new topwidget self.groupBox
+2022-03-11 22:12:14,845 pop layout QGridLayout gridLayout_16
+2022-03-11 22:12:14,845 setting property orientation
+2022-03-11 22:12:14,845 push QFrame line
+2022-03-11 22:12:14,845 pop widget QFrame line
+2022-03-11 22:12:14,845 new topwidget self.groupBox
+2022-03-11 22:12:14,845 pop layout QGridLayout gridLayout_3
+2022-03-11 22:12:14,845 pop widget QGroupBox groupBox
+2022-03-11 22:12:14,845 new topwidget self.centralwidget
+2022-03-11 22:12:14,845 pop layout QGridLayout gridLayout_38
+2022-03-11 22:12:14,845 pop layout QGridLayout gridLayout_39
+2022-03-11 22:12:14,845 pop layout QGridLayout gridLayout_40
+2022-03-11 22:12:14,846 pop widget QWidget centralwidget
+2022-03-11 22:12:14,846 new topwidget MainWindow
+2022-03-11 22:12:14,846 setting property geometry
+2022-03-11 22:12:14,846 push QMenuBar menubar
+2022-03-11 22:12:14,846 setting property title
+2022-03-11 22:12:14,846 push QMenu menuBrowse
+2022-03-11 22:12:14,846 pop widget QMenu menuBrowse
+2022-03-11 22:12:14,846 new topwidget self.menubar
+2022-03-11 22:12:14,846 pop widget QMenuBar menubar
+2022-03-11 22:12:14,846 new topwidget MainWindow
+2022-03-11 22:12:14,846 push QStatusBar statusbar
+2022-03-11 22:12:14,846 pop widget QStatusBar statusbar
+2022-03-11 22:12:14,846 new topwidget MainWindow
+2022-03-11 22:12:14,846 setting property icon
+2022-03-11 22:12:14,847 setting property text
+2022-03-11 22:12:14,847 setting property enabled
+2022-03-11 22:12:14,847 setting property icon
+2022-03-11 22:12:14,847 setting property text
+2022-03-11 22:12:14,847 setting property icon
+2022-03-11 22:12:14,847 setting property text
+2022-03-11 22:12:14,847 pop widget QMainWindow MainWindow
+2022-03-11 22:12:14,847 new topwidget None
+2022-03-11 22:12:14,847 add action actionImage1 to menuBrowse
+2022-03-11 22:12:14,847 add action actionImage2 to menuBrowse
+2022-03-11 22:12:14,847 add action menuBrowse to menubar
+2022-03-11 22:12:14,854 The Application started successfully
+2022-03-11 22:12:20,104 Browsing the files
+2022-03-11 22:13:00,508 Browsing the files
+2022-03-11 22:13:02,744 Browsing the files
+2022-03-11 22:13:05,415 Browsing the files
